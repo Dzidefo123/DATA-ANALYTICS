@@ -5,6 +5,6 @@
 - 📫 How to reach me kalomenu@hotmail.com
 
 <!---
-Dzidefo123/Dzidefo123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dzidefo123/Dzidefo123 is a Rookie Data Analyst.
 You can click the Preview link to take a look at your changes.
 --->
